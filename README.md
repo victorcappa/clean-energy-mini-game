@@ -20,7 +20,6 @@
   <p align="center">
 Simple mini-game made for the Sustainability Awareness Week
 
-    <br />
 
   </p>
  
