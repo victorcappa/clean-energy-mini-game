@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
  
 
-<br />
+
 <div align="center">
   <a href="https://github.com/victorcappa/clean-energy-mini-game">
     <img src="logo.png" alt="Logo" width="80" height="80">
@@ -37,8 +37,7 @@ Simple mini-game made for the Sustainability Awareness Week
  
 <p align="left">
  
-  <img src="https://user-images.githubusercontent.com/40408965/175422828-db4de5f6-9ba4-4154-808c-faf572fd809f.gif" alt="animated" />
-
+  <img src="https://user-images.githubusercontent.com/40408965/175429260-ac4da543-20ab-430e-8eef-81b37dde880f.gif" alt="animated" />
 
 </p>
 
