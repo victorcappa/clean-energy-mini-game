@@ -56,8 +56,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
-
+Reach out - <a href = "mailto: victorcappa@imaginar.dev">Victor Cappa @imaginar</a>
+<br>
+<a href="https://www.linkedin.com/in/victor-cappa-50839788/">Linkedin</a>
 
 Share the project - [Clean Energy](https://github.com/victorcappa/clean-energy-mini-game)
 
